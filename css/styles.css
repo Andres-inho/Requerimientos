@@ -130,7 +130,14 @@ box-shadow: 0px 0px 20px white;
     height: 30px;
 }
 
-
+#siguiente{
+    background-color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0px 0px 20px white;
+    text-decoration: none;
+}
 
     
 
